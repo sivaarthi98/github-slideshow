@@ -5,6 +5,6 @@ class fact{
     for(int i=n; i>1; i--){
         out=out*i;
     }
-    System.out.println(out);
+    System.out.println(n);
 }
 }
